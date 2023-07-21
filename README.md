@@ -16,4 +16,4 @@ This Python repository contains a simple stock market simulator that allows you 
 
 ## Usage
 
-run using `python3 stock_market_simulator.py`
+Run this code by using `python3 stock_market_simulator.py` 
