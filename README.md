@@ -10,7 +10,7 @@ This Python repository contains a simple stock market simulator that allows you 
 ## Installation
 
 1. Clone the repository:
-`git clone https://github.com/your-username/stock-market-simulator.git`
+`git clone https://github.com/jaitimalhotra97/StockMarket.git`
 
 2. Ensure you have Python installed (Python 3.x recommended).
 
