@@ -109,3 +109,4 @@ print('Dividend Yield for TEA:', tea.dividend_yield(110))
 print('P/E Ratio for POP:', pop.pe_ratio(120))
 print('Volume Weighted Stock Price for ALE:', ale.volume_weighted_stock_price())
 print('GBCE All Share Index:', gbce.gbce_all_share_index())
+
