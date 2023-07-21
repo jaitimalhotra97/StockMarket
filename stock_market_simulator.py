@@ -90,7 +90,7 @@ class StockMarket:
         return (prod(prices)) ** (1.0 / len(prices))
 
 
-# Example
+# Example usage of the classes and methods
 tea = Stock('TEA', 'Common', 0, None, 100)
 pop = Stock('POP', 'Common', 8, None, 100)
 ale = Stock('ALE', 'Common', 23, None, 60)
